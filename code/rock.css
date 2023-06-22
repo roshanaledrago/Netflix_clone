@@ -1,0 +1,17 @@
+
+.w-450
+{
+    width: 450px;
+}
+.vh-100{
+    min-height: 100vh;
+}
+.d-flex {
+    width: 100%;
+    height: 100%;
+    background-image: url(dragofinal.webp);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+
+}
